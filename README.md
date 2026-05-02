@@ -16,15 +16,18 @@ Este é um projeto de um sorteador de números aleatórios desenvolvido durante 
 * **Responsivo**: O layout se adapta para dispositivos móveis (testado em Samsung Galaxy A10s).
 
 ## 📸 Demonstração
-
-![Screenshot do Projeto]<img width="206" height="446" alt="screencapture-file-C-Users-Elosandro-Desktop-DevClub-aula-Sorteio-EF-index-html-2026-05-01-23_26_28" src="https://github.com/user-attachments/assets/007d861e-b254-4659-934e-2b252eebc1a0" />
-![Screenshot do Projeto]<img width="1366" height="600" alt="screencapture-file-C-Users-Elosandro-Desktop-DevClub-aula-Sorteio-EF-index-html-2026-05-01-23_15_09" src="https://github.com/user-attachments/assets/028cd513-335d-41b6-b6d1-1169c51bb975" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/028cd513-335d-41b6-b6d1-1169c51bb975" width="60%" alt="Desktop Version" />
+  <img src="https://github.com/user-attachments/assets/007d861e-b254-4659-934e-2b252eebc1a0" width="25%" alt="Mobile Version" />
+</p>
 ## 💻 Como rodar o projeto
-1. Clone este repositório.
-2. Abra o arquivo `index.html` no seu navegador (ou use a extensão **Live Server** no VS Code).
 
+1. Clone este repositório.
+
+### 🛠️ Clonando o repositório
+
+```bash
+git clone [https://github.com/ElisandroFerrari/Sorteio-EF.git](https://github.com/ElisandroFerrari/Sorteio-EF.git)
 ---
 Desenvolvido por **Elisandro Ferrari** - Tramandaí/RS
 *Estudante Fullstack no DevClub*
