@@ -5,9 +5,9 @@
 Este é um projeto de um sorteador de números aleatórios desenvolvido durante a trilha de **JavaScript** do curso **DevClub**. O objetivo é aplicar conceitos fundamentais de lógica de programação, manipulação do DOM e eventos em JavaScript.
 
 ## 🚀 Tecnologias Utilizadas
-* **HTML5**: Estrutura do projeto.
-* **CSS3**: Estilização moderna com foco em responsividade.
-* **JavaScript**: Lógica de sorteio usando `Math.random()`, `Math.ceil()` e `Math.floor()`.
+* **![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)** : Estrutura do projeto.
+* **![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)** : Estilização moderna com foco em responsividade.
+* **![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)** : Lógica de sorteio usando `Math.random()`, `Math.ceil()` e `Math.floor()`.
 
 ## 🛠️ Funcionalidades
 * O usuário define um valor mínimo e um valor máximo.
